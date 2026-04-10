@@ -1,0 +1,1 @@
+{ "name": "butcher-inventory", "version": "1.0.0", "description": "A butcher inventory management system.", "main": "index.js", "scripts": { "test": "echo 'Error: no test specified' && exit 1" }, "author": "", "license": "ISC" }
